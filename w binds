@@ -1,0 +1,37 @@
+<InputBindings>
+    <action name="Move Forward" id="0" device2="None"/>
+    <action name="Turn Left" id="4" device="None"/>
+    <action name="Turn Right" id="5" device="None"/>
+    <action name="Dodge" id="6" device="Keyboard" button="2"/>
+    <action name="Autorun" id="7" device="Keyboard" button="11" device2="None"/>
+    <action name="Walk" id="8" device="Keyboard" button="1"/>
+    <action name="Swim Down" id="11" device="Keyboard" button="2"/>
+    <action name="Free Camera" id="13" device="Keyboard" button="6"/>
+    <action name="Toggle Action Camera" id="78" device="Keyboard" button="76" mod="2"/>
+    <action name="Swap Weapons" id="17" device="Keyboard" button="19"/>
+    <action name="Weapon Skill 1" id="18" device2="Mouse" button2="4"/>
+    <action name="Weapon Skill 2" id="19" device2="Keyboard" button2="97"/>
+    <action name="Weapon Skill 3" id="20" device2="Keyboard" button2="98"/>
+    <action name="Weapon Skill 4" id="21" device2="Keyboard" button2="99"/>
+    <action name="Weapon Skill 5" id="22" device2="Keyboard" button2="100"/>
+    <action name="Healing Skill" id="23" device="Keyboard" button="81" device2="Keyboard" button2="101"/>
+    <action name="Utility Skill 1" id="24" device2="Keyboard" button2="102"/>
+    <action name="Utility Skill 2" id="25" device="Keyboard" button="82" device2="Keyboard" button2="103"/>
+    <action name="Utility Skill 3" id="26" device="Keyboard" button="35" device2="Keyboard" button2="7"/>
+    <action name="Elite Skill" id="27" device="Keyboard" button="36" device2="Keyboard" button2="8"/>
+    <action name="Mount/Dismount" id="152" device="Mouse" button="3"/>
+    <action name="Profession Skill 4" id="31" device="None"/>
+    <action name="Profession Skill 5" id="79" device="None"/>
+    <action name="Next Enemy" id="35" device="None"/>
+    <action name="Scoreboard" id="50" device="None"/>
+    <action name="Stereoscopic" id="57" device="Keyboard" button="6"/>
+    <action name="Show Enemy Names" id="66" device="None"/>
+    <action name="Show Ally Names" id="67" device="Keyboard" button="14"/>
+    <action name="Stow/Draw Weapons" id="68" device="Keyboard" button="111"/>
+    <action name="Toggle Language" id="69" device="Mouse" button="1"/>
+    <action name="Raptor Mount/Dismount" id="155" device="Keyboard" button="69"/>
+    <action name="Springer Mount/Dismount" id="156" device="Keyboard" button="66"/>
+    <action name="Griffon Mount/Dismount" id="159" device="Keyboard" button="22"/>
+    <action name="Special Action" id="82" device="None"/>
+    <action name="Activate Chair" id="163" device="Keyboard" button="31"/>
+</InputBindings>
